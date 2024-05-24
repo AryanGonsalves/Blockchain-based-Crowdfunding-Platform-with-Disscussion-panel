@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "mgmcdermott.vscode-language-babel",
+    "Orta.vscode-jest",
+    "standard.vscode-standard"
+  ]
+}
